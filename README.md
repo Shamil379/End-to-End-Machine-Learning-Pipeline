@@ -48,12 +48,6 @@ Recall: 0.667
 
 F1-score: 0.724
 
-📦 Deliverables
-
-Jupyter Notebook: Titanic_ML_Pipeline.ipynb
-
-Saved pipeline model: titanic_pipeline_model.pkl
-
 ✅ Conclusion
 
 The ML pipeline successfully integrates preprocessing and model training into a single reusable workflow, making it efficient for deployment and future predictions.
